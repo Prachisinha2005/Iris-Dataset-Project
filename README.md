@@ -1,6 +1,6 @@
 # **Iris Flower Classification** 🌸
 
-![Iris Flower Dataset](https://i.imgur.com/ODFAcAT.png)
+![Iris Flower Dataset](https://editor.analyticsvidhya.com/uploads/51518iris%20img1.png)
 
 ### **Overview**
 This project leverages machine learning techniques to classify **Iris flowers** into one of three species: **Iris Setosa**, **Iris Versicolor**, and **Iris Virginica**. The classification is based on four features of the flowers: 
